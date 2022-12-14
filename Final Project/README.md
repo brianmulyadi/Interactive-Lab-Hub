@@ -55,11 +55,27 @@ We iterated our design and came up with the final sketch of the device before pr
 
 ![sketch2](https://user-images.githubusercontent.com/6238480/207646122-fea81ab7-a0c0-44a6-95bb-c2168acdd03a.jpg)
 
+Using the laser cut machine to cut the cardboards into shape and printing more intricate patterns
+
+https://user-images.githubusercontent.com/6238480/207648242-42a30009-7b4e-4d38-8f22-05181c53734d.mp4
+
+Our first working prototype for the functional check ✅
+
+https://user-images.githubusercontent.com/6238480/207648735-088a145d-9cc9-4a67-aa2f-f832c698f943.mp4
+
+## Final design considerations
+
 We then proceed to test which color schemes work best to evoke the right emotion.
 
 Coco-inspired             |  Ghibli-inspired
 :-------------------------:|:-------------------------:
 ![coco-inspired](https://user-images.githubusercontent.com/6238480/207645901-b0649c58-35ae-4778-8cd2-149e93501bb7.jpg)  |  ![ghibli-inspired](https://user-images.githubusercontent.com/6238480/207645885-a656a68b-b8e9-4d1c-9239-2f843db8038c.jpg)
+
+We decided to go with the Coco-inspired color scheme and move forward to assembling the different components together
+
+Our functional prototype            |  Set the equipments in place |  Painting the top layer
+:-------------------------:|:-------------------------:|:-------------------------:
+![photo1](https://user-images.githubusercontent.com/6238480/207649543-812923c3-549e-4023-99f3-8885f8d0650f.jpg)  |  ![photo2](https://user-images.githubusercontent.com/6238480/207649565-309aa49d-31ec-49bd-8455-02aceab3350b.jpg)  |  ![photo3](https://user-images.githubusercontent.com/6238480/207649572-0fcfbdbc-2afc-4cec-9078-1a71fb612acd.jpg)
 
 ## Open Studio Day 2022
 
