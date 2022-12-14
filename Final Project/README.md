@@ -79,10 +79,19 @@ Our functional prototype            |  Set the equipments in place |  Painting t
 
 ## Open Studio Day 2022
 
+[Open Studio](https://openstudiofall2022.splashthat.com/) is an event held at Cornell Tech for presentations and demos by students, faculty, PhDs, and others in the Cornell Tech community, giving people a closeup view of the real-world products being built here.
+
 Our table setup            |  Happy visitors|  Explaining our device to attendees
 :-------------------------:|:-------------------------:|:-------------------------:
 ![photo_2022-12-14_11-00-29](https://user-images.githubusercontent.com/6238480/207646471-835a1bd2-c23a-4965-bbfa-5f9944ea752c.jpg)  |  ![photo_2022-12-14_11-00-31](https://user-images.githubusercontent.com/6238480/207646488-4688951e-bbce-4373-9cef-2159f6ef1326.jpg)  |  ![photo_2022-12-14_11-00-32](https://user-images.githubusercontent.com/6238480/207646495-bcc42fe5-413d-4e8c-9d00-8d9198363eb8.jpg)
 
+Here is the final setup of our table for people to interact directly with our device
+
+https://user-images.githubusercontent.com/6238480/207651300-ce658c36-95da-4253-be84-d239cb4ab198.mp4
+
+We also created a highlight video to help promote the device in our setup
+
+https://user-images.githubusercontent.com/6238480/207651482-67750abc-1671-4f57-ac63-baac5275f65c.mp4
 
 # Final Project
 
