@@ -79,9 +79,9 @@ Our functional prototype            |  Set the equipments in place |  Painting t
 
 ## Open Studio Day 2022
 
-[Open Studio](https://openstudiofall2022.splashthat.com/) is an event held at Cornell Tech for presentations and demos by students, faculty, PhDs, and others in the Cornell Tech community, giving people a closeup view of the real-world products being built here.
+[Open Studio](https://openstudiofall2022.splashthat.com/){:target="_blank"} is an event held at Cornell Tech for presentations and demos by students, faculty, PhDs, and others in the Cornell Tech community, giving people a closeup view of the real-world products being built here.
 
-We managed to talk to many visitors who were very intrigued and inspired with the concept and execution of our product. One visitor even told us that the project reminds her of the [empty phone booth for Japan's 2011 Tsunami survivors](https://www.insider.com/japans-tsunami-survivors-call-lost-loves-phone-of-the-wind-2021-3).
+We managed to talk to many visitors who were very intrigued and inspired with the concept and execution of our product. One visitor even told us that the project reminds her of the [empty phone booth for Japan's 2011 Tsunami survivors](https://www.insider.com/japans-tsunami-survivors-call-lost-loves-phone-of-the-wind-2021-3){:target="_blank"}.
 
 Our table setup            |  Happy visitors|  Explaining our device to attendees
 :-------------------------:|:-------------------------:|:-------------------------:
