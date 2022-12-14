@@ -63,7 +63,7 @@ Coco-inspired             |  Ghibli-inspired
 
 ## Open Studio Day 2022
 
-
+ | | 
 :-------------------------:|:-------------------------:|:-------------------------:
 ![photo_2022-12-14_11-00-29](https://user-images.githubusercontent.com/6238480/207646471-835a1bd2-c23a-4965-bbfa-5f9944ea752c.jpg)  |  ![photo_2022-12-14_11-00-31](https://user-images.githubusercontent.com/6238480/207646488-4688951e-bbce-4373-9cef-2159f6ef1326.jpg)  |  ![photo_2022-12-14_11-00-32](https://user-images.githubusercontent.com/6238480/207646495-bcc42fe5-413d-4e8c-9d00-8d9198363eb8.jpg)
 
