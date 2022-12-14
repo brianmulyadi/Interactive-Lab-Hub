@@ -1,3 +1,60 @@
+# Afterlife Garden - Project Documentation
+
+In this project, we are exploring the possibilities in rethinking the way we interact with our loved ones who have passed away.
+
+## Key objectives
+
+We want to design an interactive device that helps to:
+- Let users interact with each family members’ item, reminisce their lives, and remember intimate moments
+- Educate the younger family members of their family history and heritage
+
+## Project detail
+
+Afterlife Garden is an interactive device to help children understand and better connect to beloved family members who have passed away.
+
+How to use the device:
+1. Place the miniature urns into their slots
+2. The device will sense the touch and trigger the lights to go around and land at the slot
+3. The LED screen will then show the photograph and life story of the family member assigned to that slot
+4. The speaker will also automatically play their favorite song
+
+Device components and parts used:
+- Physical device
+    - Laser cut cardboard
+    - Hot glue
+    - Physical device
+    - Acrylic paint
+    - Tree branch
+    - Origami paper
+    - Scissors
+- Sensors and electronics
+    - Raspberry Pi
+    - Neopixel light strip
+    - LED screen
+    - Capacitive sensor
+    - Alligator clips (5)
+    - Copper tape
+    - Servo Control – Micro Servo Motor SG51 and Qwiic Servo Controller
+    - Battery pack (3)
+    - Speaker
+    - Connecting wires
+
+**Connection diagrams:**
+
+
+**Sketching the design and mood board:**
+
+We initially came up with the idea to have a tree-like structure and have the device placed on the wall. However we discovered that tabletop arrangement will be easier for children to interact with.
+
+We iterated our design and came up with the final sketch of the device before proceeding to prototype it with the laser-cutting machine
+
+We then proceed to test which color schemes work best to evoke the right emotion.
+
+Coco-inspired             |  Ghibli-inspired
+:-------------------------:|:-------------------------:
+![](https://...Dark.png)  |  ![](https://...Ocean.png)
+
+
 # Final Project
 
 Using the tools and techniques you learned in this class, design, prototype and test an interactive device.
