@@ -2,6 +2,8 @@
 
 In this project, we are exploring the possibilities in rethinking the way we interact with our loved ones who have passed away.
 
+![Project Plan](https://user-images.githubusercontent.com/6238480/207645261-6cedadfb-3a29-4c45-9d6c-b8ec1f9fc2d0.jpg)
+
 ## Key objectives
 
 We want to design an interactive device that helps to:
@@ -41,18 +43,28 @@ Device components and parts used:
 
 **Connection diagrams:**
 
+![IDD Design](https://user-images.githubusercontent.com/6238480/207645318-44c48728-cf00-43aa-9490-c2076fab7ed3.jpg)
 
 **Sketching the design and mood board:**
 
 We initially came up with the idea to have a tree-like structure and have the device placed on the wall. However we discovered that tabletop arrangement will be easier for children to interact with.
 
+![sketch1](https://user-images.githubusercontent.com/6238480/207646151-e27b3f9f-a426-45e7-be48-2412f4369c8d.jpg)
+
 We iterated our design and came up with the final sketch of the device before proceeding to prototype it with the laser-cutting machine
+
+![sketch2](https://user-images.githubusercontent.com/6238480/207646122-fea81ab7-a0c0-44a6-95bb-c2168acdd03a.jpg)
 
 We then proceed to test which color schemes work best to evoke the right emotion.
 
 Coco-inspired             |  Ghibli-inspired
 :-------------------------:|:-------------------------:
-![](https://...Dark.png)  |  ![](https://...Ocean.png)
+![coco-inspired](https://user-images.githubusercontent.com/6238480/207645901-b0649c58-35ae-4778-8cd2-149e93501bb7.jpg)  |  ![ghibli-inspired](https://user-images.githubusercontent.com/6238480/207645885-a656a68b-b8e9-4d1c-9239-2f843db8038c.jpg)
+
+## Open Studio Day 2022
+
+:-------------------------:|:-------------------------:
+![photo_2022-12-14_11-00-29](https://user-images.githubusercontent.com/6238480/207646471-835a1bd2-c23a-4965-bbfa-5f9944ea752c.jpg)  |  ![photo_2022-12-14_11-00-31](https://user-images.githubusercontent.com/6238480/207646488-4688951e-bbce-4373-9cef-2159f6ef1326.jpg)  |  ![photo_2022-12-14_11-00-32](https://user-images.githubusercontent.com/6238480/207646495-bcc42fe5-413d-4e8c-9d00-8d9198363eb8.jpg)
 
 
 # Final Project
