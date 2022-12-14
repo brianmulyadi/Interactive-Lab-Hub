@@ -77,6 +77,12 @@ Our functional prototype            |  Set the equipments in place |  Painting t
 :-------------------------:|:-------------------------:|:-------------------------:
 ![photo1](https://user-images.githubusercontent.com/6238480/207649543-812923c3-549e-4023-99f3-8885f8d0650f.jpg)  |  ![photo2](https://user-images.githubusercontent.com/6238480/207649565-309aa49d-31ec-49bd-8455-02aceab3350b.jpg)  |  ![photo3](https://user-images.githubusercontent.com/6238480/207649572-0fcfbdbc-2afc-4cec-9078-1a71fb612acd.jpg)
 
+**Demo of Afterlife Garden**
+
+https://user-images.githubusercontent.com/6238480/207659469-239cc20d-6db7-4f57-9156-65d2ca6826ac.mp4
+
+---
+
 ## Open Studio Day 2022
 
 [Open Studio](https://openstudiofall2022.splashthat.com/) is an event held at Cornell Tech for presentations and demos by students, faculty, PhDs, and others in the Cornell Tech community, giving people a closeup view of the real-world products being built here.
