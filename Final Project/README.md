@@ -55,13 +55,13 @@ We iterated our design and came up with the final sketch of the device before pr
 
 ![sketch2](https://user-images.githubusercontent.com/6238480/207646122-fea81ab7-a0c0-44a6-95bb-c2168acdd03a.jpg)
 
-Using the laser cut machine to cut the cardboards into shape and printing more intricate patterns
+Using the laser cut machine to cut the cardboards into shape and printing more intricate patterns (loud video sound)
 
-https://user-images.githubusercontent.com/6238480/207648242-42a30009-7b4e-4d38-8f22-05181c53734d.mp4
+https://user-images.githubusercontent.com/6238480/207650277-f9dd3e6e-032a-484f-aaff-3e01f34996a1.mp4
 
 Our first working prototype for the functional check ✅
 
-https://user-images.githubusercontent.com/6238480/207648735-088a145d-9cc9-4a67-aa2f-f832c698f943.mp4
+https://user-images.githubusercontent.com/6238480/207650370-9a129bf0-3f93-4db2-bb25-77c14347b22a.mp4
 
 ## Final design considerations
 
